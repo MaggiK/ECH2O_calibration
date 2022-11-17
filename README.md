@@ -5,4 +5,4 @@ This code is for calibrating the ECH2O hydrologic model using the DDS algorithm.
 Resources required to run the code can be found at:
 - model: https://ech2o.readthedocs.io/projects/ECH2O-SPAC/en/latest/Setup.html
 - DDS: https://github.com/bsu-wrudisill/WRF-HYDRO_CALIB
-- input data: Hydroshare ... tbd
+- input data: https://www.hydroshare.org/resource/20d6db6ff9064928803528dcb317dfad/
